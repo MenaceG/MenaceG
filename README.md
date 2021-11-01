@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MenaceG
-- 👀 I’m interested in ...
+- 👀 I’m interested in ______
 - 🌱 I’m currently learning Web developing and basic python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Just Dm me on my discord Menace#6529
 
 <!---
