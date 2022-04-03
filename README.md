@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MenaceG
-- 👀 I’m interested in ______
+- 👀 I’m interested in Computers
 - 🌱 I’m currently learning Web development and basic python
 - 📫 How to reach me? Just Dm me on my discord Menace#6529
 
