@@ -2,4 +2,4 @@
 - About: Programmer from Mumbai, India
 - Languages: HTML/CSS, Javascript, Python
 - OS: Arch+i3wm, Windows 10
-- Code Editor: Visual Studio Code
+- Code Editor: Visual Studio Code ,VIM 
